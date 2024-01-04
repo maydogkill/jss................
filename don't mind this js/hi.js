@@ -17,3 +17,23 @@ let arrey = ["a", "b", "c", "d", "e"]
 arrey.forEach((value) => {
     console.log(value)
 })
+
+let i = 0
+while (i < 10) {
+    console.log("ตรั้งที่" + 1)
+    i++
+}
+
+let doc = {
+    name : "skibidi",
+    lastname : "toilet",
+    age : 1,
+    address : "ohio",
+    phone : "9114096969"
+}
+
+// for (let asd in doc) {
+//     console.log(doc[asd])
+// }
+
+let age
